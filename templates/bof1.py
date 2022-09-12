@@ -5,7 +5,6 @@ import socket, time, sys
 
 
 timeout = 5
-prefix = "OVERFLOW1 "
 
 string = prefix + "A" * 100
 
